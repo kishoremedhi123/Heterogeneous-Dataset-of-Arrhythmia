@@ -1,0 +1,2 @@
+# Heterogeneous-Dataset-of-Arrhythmia
+This is a heterogeneous dataset of human heart disease. It is collected from MIT-BHI arrhythmia database of PhysioNet, consisting of 167 male and 98 female patients where they are in the age range of 1 to 89. The dataset containing six different classes including normal sinus rhythm (NSR), pulmonary ventricular contractions (PVC), sinus tachycardia (ST), sinus barycardia (SB), atrial fibrillation (AF), and atrial flutter (AFL).  All the 10-second (3600 samples) fragments of the ECG signal were captured at a sampling frequency of 360 Hz.
